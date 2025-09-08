@@ -11,6 +11,7 @@ The app is built purely for UI demonstration purposes and does not include backe
 - Support for light theme UI preview
 
 📸 Screenshots
+
 <img width="360" height="800" alt="Splash" src="https://github.com/user-attachments/assets/a987935a-7380-40cc-b196-aa199a04fb30" />
 
 🛠️ Tech Stack
