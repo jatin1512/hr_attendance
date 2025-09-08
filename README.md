@@ -12,12 +12,10 @@ The app is built purely for UI demonstration purposes and does not include backe
 
 📸 Screenshots
 
-<img width="360" height="800" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Splash.png" />
+<img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Splash.png" />
 
 
-<img width="360" height="800" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_one.png" />
-<img width="360" height="800" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_two.png" />
-<img width="360" height="800" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_three.png" />
+<img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_one.png" /> <img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_two.png" /> <img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_three.png" />
 
 🛠️ Tech Stack
 - Flutter (latest stable)
