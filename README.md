@@ -1,16 +1,34 @@
-# hr_attendance
+HR Attendance App UI Showcase
 
-HR Attendance prototype
+This release contains the first version of the HR Attendance App UI Showcase, a Flutter implementation of the HR Attendance App UI Kit as per figma.
 
-## Getting Started
+The app is built purely for UI demonstration purposes and does not include backend or business logic integration.
 
-This project is a starting point for a Flutter application.
+🎨 Features
+- Modern HR Attendance UI inspired by the Figma community kit
+- Responsive Flutter layouts for multiple screens
+- Clean, reusable widget structure
+- Support for light theme UI preview
 
-A few resources to get you started if this is your first Flutter project:
+📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="360" height="800" alt="Splash" src="https://github.com/user-attachments/assets/a987935a-7380-40cc-b196-aa199a04fb30" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+- Flutter (latest stable)
+- Dart
+- Figma-to-Flutter adaptation
+
+
+⚠️ Notes
+❌ No real authentication or API integration
+🛠️ Can be extended with backend, state management, and database
+
+📂 Getting Started
+
+Clone the repo and run:
+
+git clone https://github.com/<your-username>/hr-attendance-ui-showcase.git
+cd hr-attendance-ui-showcase
+flutter pub get
+flutter run
