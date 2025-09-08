@@ -17,6 +17,12 @@ The app is built purely for UI demonstration purposes and does not include backe
 
 <img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_one.png" /> <img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_two.png" /> <img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Onboarding_three.png" />
 
+
+<img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Login.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Registration.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/ForgotPassword.png" />
+
+
+<img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Home.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/AllLeave.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/HolidayList.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/TeamMembers.png" /><img width="200" height="400" alt="Splash" src="https://github.com/jatin1512/hr_attendance/blob/main/screenshot/Profile.png" />
+
 🛠️ Tech Stack
 - Flutter (latest stable)
 - Dart
